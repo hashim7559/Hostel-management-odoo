@@ -11,6 +11,8 @@
         <field name="arch" type="xml">
             <list>
                 <field name="facility_name"/>
+                <field name="hostel_id"/>
+                <field name="currency_id"/>
                 <field name="monthly_charge"/>
             </list>
         </field>

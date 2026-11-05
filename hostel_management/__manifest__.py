@@ -11,10 +11,13 @@
         'mail',
     ],
     "data": [
+        'data/sequence_data.xml',
         'security/ir.access.csv',
         'view/hostel_room_views.xml',
         'view/hostel_facility_views.xml',
         'view/hostel_student_views.xml',
         'view/hostel_menus.xml',
+        'data/hostel_facility_demo.xml',
+
     ]
 }
